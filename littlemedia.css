@@ -152,8 +152,6 @@ p {
     margin: 0px auto;
 }
 
-/* Experience */
-
 .experience {
     display: block;
     width: 95%;
@@ -174,8 +172,6 @@ p {
     font-size: 20px;
 }
 
-
-/*---------column----------*/
 .column {
     display: block;
     width: 100%;
@@ -192,6 +188,51 @@ details {
     font-weight: 300;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+/* WORK PAGE */
+.work1 {
+    height: 250px;
+    background-size: 110%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+
+.work2 {
+    height: 250px;
+    background-size: 110%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work3 {
+    height: 250px;
+    background-size: 110%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work4 {
+    height: 250px;
+    background-size: 110%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work5 {
+    height: 250px;
+    background-size: 110%;
+    line-height: 1.4;
+}
+.worktitle {
+    display: inline;
+    width: 50%;
+    background-color:rgba(255, 255, 255, 0.7);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 40px auto;
 }
 
 
