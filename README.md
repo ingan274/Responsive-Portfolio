@@ -1,5 +1,5 @@
-# Portfolio
-Isabel Ngan's Portfolio featuring Full-Stacked Web Development work
+# Responsive Portfolio
+Isabel Ngan's Portfolio featuring Full-Stacked Web Development work (and now you can view it on Mobile!)
 
 I design for emotion. I believe cohesive and intuitive design systems are functional, usable, reliable, and most of all, breath feeling. Emotional design allows conversations with users that always end with a better iteration. So, why not design to fulfill a task and put a smile on our users faces?
 
