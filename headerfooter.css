@@ -8,7 +8,7 @@
   /* ------OVERALL STYLING FONTS------ */
 
   /* H1 */
-  #aboutheadtitle {
+#aboutheadtitle {
     font-family: 'Titillium Web', sans-serif;
     color: #003E51;
     font-size: 55pt;
@@ -114,22 +114,11 @@ li {
 }
 
 /* Menu content */
-.nav {
-    width: 100%;
-    padding-right: 10px;
-    padding-left: 10px;
-    font-family: 'Montserrat', sans-serif;
-    color: white;
-    font-size: 10pt;
-    font-weight: 600;
-  
-}
 
 /* Logo */
 #logo {
     width: 80px;
     height: 80px;
-    float: left;
 }
 
 /* Nav Words: about, work, contact */
@@ -145,10 +134,26 @@ li {
     padding: 10px;
     margin-right: 10px;
     margin-left: 10px;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 10pt;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a {
+    display: inline-block;
 }
 
 .menu:hover{
     color: #003E51;
+}
+
+.menu:active{
+    color: #003241;
 }
 
 /* Content Title */

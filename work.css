@@ -1,9 +1,3 @@
-/* Navigation */
-#work {
-    color: #D9E1E2;
-    text-decoration: underline;
-}
-
 /* Work */
 .work1 {
     background: url(work-image/robert-zunikoff-53898-unsplash.jpg);
@@ -43,8 +37,8 @@
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
-    padding: 120px 50px 50px 50px;
 }
+
 .worktitle {
     display: inline;
     width: 100%;
@@ -54,5 +48,4 @@
     padding-top: 50px;
     padding-bottom: 50px;
     margin: 40px auto;
-
 }

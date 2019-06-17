@@ -1,5 +1,5 @@
 /* Navigation */
-#about {
+.about:current {
     color: #D9E1E2;
     text-decoration: underline;
 }
