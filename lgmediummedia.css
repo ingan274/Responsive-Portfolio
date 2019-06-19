@@ -1,8 +1,235 @@
 /* ----------- iPad 1, 2, Mini and Air ----------- */
 /* Portrait and Landscape */
 @media only screen 
-  and (min-width: 768px) 
-  and (max-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 1) {
+  and (min-width: 812px) 
+  and (max-width: 1024px) {
 
+    h2 {
+        font-size: 40pt;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    h3 {
+        font-size: 20pt;
+        }
+        
+    p {
+         font-size: 15pt;
+         padding-top: 5px;
+        padding-bottom: 5px;
+        }
+    
+     /*CONNECT PAGE*/
+    
+    .headtitle {
+        font-size: 55pt;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 25px;
+    }
+    
+    .contact-form {
+        margin-top: 50px;
+        margin: 0px auto;
+        width: 100%;
+    
+    }
+    .form {
+        display: block;
+        width: 90%;
+        height: 70px;
+        margin: 10px auto;
+        margin-bottom: 16px;
+        background: transparent;
+        border: 0px;
+        border-bottom: 1.5px solid #505759;
+    
+    
+        font-family: 'Montserrat', sans-serif;
+        color: #505759;
+        font-size: 15pt;
+        font-weight: 300;
+    }
+    
+    #submit {
+        color: #D9E1E2;
+        border-color: transparent;
+        font-size: 20pt;
+        font-weight: bold;
+        letter-spacing: 2px;
+        height: 50px;
+        background-color: #5CA3B3;
+        text-align: center;
+    }
+    
+    #submit:hover{
+        background-color: #003E51;
+        color: #D9E1E2;
+    
+    }
+    
+    /* Lets Connect */
+    
+    .connect {
+        width: 90%;
+        margin: 0px auto;
+    }
+    
+    .hline { 
+        clear: both;
+        height:2px;
+        background: #D0D3D4;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    
+    }
+    
+    .social {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+        margin-bottom: 60px;
+    }
+    
+    
+     /*ABOUT PAGE*/
+    
+     #aboutheadtitle {
+        font-size: 55pt;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 25px;
+    }
+    
+    .headbody {
+        font-size: 16pt;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 30px;
+    }
+    
+    #gif {
+        margin: 0px auto;
+        width: 100%;
+        margin-top: 30px;
+
+        object-fit: contain;
+    }
+    
+    #profile {
+        margin: 0px auto;
+        width: 100%;
+        object-fit: contain;
+    }
+    
+    .background {
+        text-align: justify;
+        margin-left: 0px;
+        padding-left: 0px;
+        display: block;
+        width: 100%;
+        height: 600px;
+    
+    }
+    
+    .backbody {
+        padding-top: 5px;
+        width: 95%;
+        margin-left: 0px;
+    
+    }
+    
+    /* RESUME PAGE*/
+    
+    .resumepage {
+        width: 95%;
+        margin: 0px auto;
+    }
+    
+    .experience {
+        display: block;
+        width: 70%;
+        margin: 0px auto;
+        padding-right: 0px;
+        padding-left: 30px;
+    }
+    
+    .position {
+        font-weight: 500;
+    }
+    
+    .expdetail {
+        font-weight: 300;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin-top: 0px;
+        font-size: 20px;
+    }
+    
+    .column {
+        display: block;
+        width: 30%;
+        margin: 0px auto;
+        padding-left: 30px;
+        margin-bottom: 30px;
+    }
+    
+    
+    details {
+        font-family: 'Montserrat', sans-serif;
+        color: #505759;
+        font-size: 12pt;
+        font-weight: 300;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    /* WORK PAGE */
+    .work1 {
+        height: 350px;
+        background-size: 110%;
+        line-height: 1.4;
+        padding: 120px 50px 50px 50px;
+    }
+    
+    
+    .work2 {
+        height: 350px;
+        background-size: 100%;
+        line-height: 1.4;
+        padding: 120px 50px 50px 50px;
+    }
+    
+    .work3 {
+        height: 350px;
+        background-size: 100%;
+        line-height: 1.4;
+        padding: 120px 50px 50px 50px;
+    }
+    
+    .work4 {
+        height: 350px;
+        background-size: 100%;
+        line-height: 1.4;
+        padding: 120px 50px 50px 50px;
+    }
+    
+    .work5 {
+        height: 350px;
+        background-size: 100%;
+        line-height: 1.4;
+        padding: 120px 50px 50px 50px;
+    }
+    .worktitle {
+        display: inline;
+        width: 50%;
+        background-color:rgba(255, 255, 255, 0.7);
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 40px auto;
+    }
 }

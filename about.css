@@ -33,6 +33,7 @@
 /* Background */
 .background {
     float: left;
+    text-align: justify;
     height: 1000px;
     width: 500px;
     margin-left: 40px;
